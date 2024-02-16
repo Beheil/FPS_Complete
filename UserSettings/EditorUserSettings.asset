@@ -11,6 +11,9 @@ EditorUserSettings:
     RecentlyUsedSceneGuid-1:
       value: 5602525107070d0c5a0f0a7b11775a13474e482e7d2d20622e791f65e6e46761
       flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 07535104550c0d5a5c0c5c7741770a47474e1c722f7f71357e7a4a60b5e23068
+      flags: 0
     RecentlyUsedScenePath-0:
       value: 224247031146467f0803036c052d56040f
       flags: 0
@@ -47,4 +50,3 @@ EditorUserSettings:
   m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 1
   m_ArtifactGarbageCollection: 1
-  m_CompressAssetsOnImport: 1
